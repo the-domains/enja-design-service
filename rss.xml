@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Enja Design Service]]></title>
+        <description><![CDATA[Enja Design Service]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 03 Jan 2016 01:33:17 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Let's get 2016 up and running…]]></title>
+            <description><![CDATA[<article><h1>Let's get 2016 up and running…</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4b3993fc9e4ffa6dbedcef7cb2c07b695d5e524f.gif"></article>]]></description>
+            <link>undefinedlets-get-2016-up-and-running/index.html</link>
+            <guid isPermaLink="false">aec0efdf-b106-4dd5-a947-21f45d4b9788</guid>
+            <pubDate>Sun, 03 Jan 2016 01:33:17 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
