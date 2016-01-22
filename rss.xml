@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Enja Design Service]]></title>
         <description><![CDATA[Enja Design Service]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/enja-design-service/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Jan 2016 01:33:17 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 22 Jan 2016 08:43:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/enja-design-service/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Let's get 2016 up and running…]]></title>
-            <description><![CDATA[<article><h1>Let's get 2016 up and running…</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4b3993fc9e4ffa6dbedcef7cb2c07b695d5e524f.gif"></article>]]></description>
-            <link>undefinedlets-get-2016-up-and-running/index.html</link>
+            <description><![CDATA[<article><h1>Let's get 2016 up and running…</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4b24591ba6865c1d4e764f2e2138098921402e04.gif"></article>]]></description>
+            <link>https://thegrid.ai/enja-design-service/lets-get-2016-up-and-running/index.html</link>
             <guid isPermaLink="false">aec0efdf-b106-4dd5-a947-21f45d4b9788</guid>
-            <pubDate>Sun, 03 Jan 2016 01:33:17 GMT</pubDate>
+            <pubDate>Fri, 22 Jan 2016 08:43:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
